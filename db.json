@@ -1,0 +1,24 @@
+{
+"products": [
+{"id":1,"name":"Hello world","category":"Khaki"},
+{"id":2,"name":"quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere","category":"Pink"},
+{"id":3,"name":"ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat","category":"Maroon"},
+{"id":4,"name":"eros vestibulum ac est lacinia nisi venenatis tristique fusce congue","category":"Khaki"},
+{"id":5,"name":"luctus nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas tristique est et","category":"Red"},
+{"id":6,"name":"scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum","category":"Pink"},
+{"id":7,"name":"urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo","category":"Purple"},
+{"id":8,"name":"mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet massa id lobortis","category":"Pink"},
+{"id":9,"name":"consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non mattis","category":"Goldenrod"},
+{"id":10,"name":"rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus","category":"Crimson"},
+{"id":11,"name":"est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus et","category":"Indigo"},
+{"id":12,"name":"feugiat non pretium quis lectus suspendisse potenti in eleifend quam a odio in hac habitasse platea dictumst maecenas ut","category":"Yellow"},
+{"id":13,"name":"ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat","category":"Fuscia"},
+{"id":14,"name":"eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus","category":"Purple"},
+{"id":15,"name":"sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed","category":"Yellow"},
+{"id":16,"name":"montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis","category":"Aquamarine"},
+{"id":17,"name":"in felis eu sapien cursus vestibulum proin eu mi nulla ac enim in tempor turpis nec euismod","category":"Aquamarine"},
+{"id":18,"name":"venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl","category":"Maroon"},
+{"id":19,"name":"cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu","category":"Purple"},
+{"id":20,"name":"dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae","category":"Purple"}
+]
+}
